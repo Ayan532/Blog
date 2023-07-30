@@ -18,11 +18,19 @@ npm run dev -> running dev server
 
 # ENV FILES
 PORT
+
 MONG_URL
+
 COOKIE_TIME_EXPIRE
+
 JWT_SECRET
+
 JWT_EXPIRY
 # Here we use Cloudinary to store images so
 CLOUDINARY_CLOUD_NAME
+
 CLOUDINARY_API_KEY
+
 CLOUDINARY_API_SECRET
+# Incomplete
+Google Login
