@@ -1,1 +1,1 @@
-export const SERVER="http://localhost:4000/api/v1"
+export const SERVER= "https://client-blog-five.vercel.app/api/v1"
